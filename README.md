@@ -45,7 +45,7 @@ A simple video downloader application using Python, GLFW, and ImGui for a graphi
 - The features for downloading from Pinterest, Instagram, and Twitter are currently not working. Please check back later for updates.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details.
 This software is provided for personal and educational use only. 
 You may not sell, distribute, or use this software for commercial purposes without explicit permission from the author.
 
