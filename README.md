@@ -33,7 +33,7 @@ A simple video downloader application using Python, GLFW, and ImGui for a graphi
 3. **Run the application:**
    After installing the dependencies, you can run the application using:
    ```bash
-   python video.py
+   python Video Downloader with GUI
    ```
 
 ## Usage
